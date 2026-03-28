@@ -1,1 +1,0 @@
-# demo-telnet-smart-home-automation
