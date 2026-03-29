@@ -612,13 +612,7 @@ const siteData = {
     ],
     heroSubtitle:
       "Real feedback from homeowners and businesses who have experienced the Telnet difference. Our reputation is built on results.",
-    ratingBreakdown: [
-      { stars: 5, count: 18 },
-      { stars: 4, count: 5 },
-      { stars: 3, count: 1 },
-      { stars: 2, count: 0 },
-      { stars: 1, count: 0 },
-    ],
+    ratingBreakdown: { 5: 18, 4: 5, 3: 1, 2: 0, 1: 0 },
     items: [
       {
         name: "Tatenda Mushore",
